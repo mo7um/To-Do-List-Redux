@@ -1,0 +1,7 @@
+.task-filter {
+    margin-bottom: 15px;
+}
+
+.filter-button:nth-child(2) {
+    margin: 0 5px;
+}
